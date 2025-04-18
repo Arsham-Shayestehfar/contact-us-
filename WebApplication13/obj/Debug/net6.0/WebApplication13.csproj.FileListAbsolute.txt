@@ -22,3 +22,27 @@ D:\windows app\WebApplication13\WebApplication13\obj\Debug\net6.0\refint\WebAppl
 D:\windows app\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.pdb
 D:\windows app\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.genruntimeconfig.cache
 D:\windows app\WebApplication13\WebApplication13\obj\Debug\net6.0\ref\WebApplication13.dll
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\bin\Debug\net6.0\appsettings.json
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\bin\Debug\net6.0\WebApplication13.staticwebassets.runtime.json
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\bin\Debug\net6.0\WebApplication13.exe
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\bin\Debug\net6.0\WebApplication13.deps.json
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\bin\Debug\net6.0\WebApplication13.runtimeconfig.json
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\bin\Debug\net6.0\WebApplication13.dll
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\bin\Debug\net6.0\WebApplication13.pdb
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.AssemblyInfo.cs
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.RazorAssemblyInfo.cs
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\scopedcss\bundle\WebApplication13.styles.css
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.dll
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\refint\WebApplication13.dll
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.pdb
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\WebApplication13.genruntimeconfig.cache
+C:\Users\ACER\Desktop\contact\WebApplication13\WebApplication13\obj\Debug\net6.0\ref\WebApplication13.dll

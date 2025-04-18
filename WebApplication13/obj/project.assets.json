@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\windows app\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\contact\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
       "projectName": "WebApplication13",
-      "projectPath": "D:\\windows app\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\contact\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\windows app\\WebApplication13\\WebApplication13\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\contact\\WebApplication13\\WebApplication13\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
