@@ -5,6 +5,10 @@
 
 }
 
+@{
+    var message = TempData["IsSuccess"];
+}
+
 @section Style{
       <style>
         thead th {
@@ -28,6 +32,20 @@
             <div class="card-header">
                 لیست پیام ها
             </div>
+
+            @if (message != null)
+            {
+            <div class = "alert alert-success">
+                عملیات با موفقیت انجام شد 
+            </div>
+        }
+        else
+        {
+               <div class = "btn btn-danger">
+                ثبت اطلاعات با خطا مواجه شد  
+            </div>
+        }
+
             <div class="card-body">
                 <table class="table table-bordered text-center">
                     <thead>

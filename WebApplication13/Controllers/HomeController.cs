@@ -22,7 +22,13 @@ namespace WebApplication13.Controllers
         [HttpPost]
         public IActionResult SendMessage(Message message)
         {
-            DataBase.DataBase.messages.Add(message);
+
+            if (message.PhoneNumber.Length == 11)
+            {
+                TempData["IsSuccess"] = true;
+                DataBase.DataBase.messages.Add(message);
+            }
+            
             return Redirect("/Home/Messages");
         }
 
